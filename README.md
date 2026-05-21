@@ -1,5 +1,6 @@
 # Science Skills
 
+[![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google-deepmind/science-skills)
 
 A collection of agent skills for scientific research tasks, spanning genomics,
 structural biology, cheminformatics, literature search, and more.
